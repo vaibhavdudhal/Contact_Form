@@ -7,7 +7,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/file/d/1ErLmshHteQT46m-LyDnIdkENHUHYP_79/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/vaibhavdudhal/Contact_Form/blob/main/src/images/Screenshot%202024-03-07%20002123.png" alt="project-screenshot" width="1400" height="500/">
 
   
   
